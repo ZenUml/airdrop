@@ -1,6 +1,18 @@
-# 如何拥有 FUB 币
+# 如何拥有 ZenUML 币
+ZenUML空投是完全免费的，你只需要一个钱包用来接收空投。如果你没有钱包，你可以免费创建一个钱包。
+你可以使用任何内置支持BSC或者可以通过自定义的方式支持BSC的钱包（比如Metamask）。
 
-## 准备工作
+## 创建钱包（以MetaMask为例）
+
+### 安装MataMask插件
+ * 在Chrome浏览器中打开MetaMask的插件地址：https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn
+
+![](/Add-MetaMask-to-Chrome.png)
+
+ * 点击"Add to Chrome"<br/>
+ 这样你就安装了MetaMask。
+   
+### 创建钱包
 
 下载冷钱包 [Token pocket](https://www.tokenpocket.pro/) 或者 [imtoken](https://token.im/)
 

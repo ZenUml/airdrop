@@ -1,20 +1,18 @@
-# 什么是 FUB
+# 什么是 ZenUML和ZenUML Token
 
-FUBAO(FUB)是由一群饱受职场剥削，身心俱疲的反 996 人员，自发组成发行，旨在支援职场受害者维护自身权益
-持有福豹 FUB，成为超级节点，曝光黑心公司，加入反 996 社区！拒绝福报！
-福豹，致敬那些被剥削的 996 的宝宝们，一起联合起来，推动职场生态健康可持续发展！
-FUB 基本信息：
+ZenUML是一个Diagram-as-Code解决方案。你可以在https://zenuml.com找到更多信息。
 
-- 代币英文全称：FUBAO（FUB）
-- 代币中文全称：福豹
-- 代币总量：996,0000,0000,0000 FUB
+ZenUML Token是由ZenUML团队发行的一款基于BSC的Token。发行ZenUML Token的目的是借助于社区的力量
+发展ZenUML。通过ZenUML Token回馈给我们提供帮助的朋友。
+- Token英文全称：ZenUML Token（ZenUML or Z）
+- 代币总量：1,000,000,000,000,000 Z
 - 代币发行主网：BSC
-- 通缩规则：无增发机制，50%透明公开用于社区支援救助，30%用于空投，剩下的全社区流通
-- BSC 合约地址：`0x369d7c7fe353bebf89acb80ffdcaeb83c95d64ec`
+- 通缩规则：无增发机制，回购并销毁所有空投的Token
+- BSC 合约地址：`0x0831842DB6a03521469f795D90615c05c939F98C`
+- BscScan地址：https://bscscan.com/address/0x0831842db6a03521469f795d90615c05c939f98c
 
-FUB 社区不追热度，项目由社区成员共同主导，社区承诺永不增发、不做市、永不撤流动池、完全社区自治
+ZenUML社区不追热度，项目由社区成员共同主导，社区承诺永不增发、不做市、永不撤流动池。
 
 ## 官方账号
 
-- Twitter：https://twitter.com/Fubtoken
-- Telegram: https://t.me/fubtoken
+- Twitter：https://twitter.com/ZenUML
