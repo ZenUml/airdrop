@@ -3,9 +3,9 @@ export default {
   titleSuffix: ' – ZenUML',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">FUB</span>
+      <span className="mr-2 font-extrabold hidden md:inline">ZenUML</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        FUB 使用指南
+        空投使用指南
       </span>
     </>
   ),
@@ -15,15 +15,15 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="FUB 福豹" />
-      <meta name="og:description" content="FUB 福豹" />
+      <meta name="description" content="ZenUML AirDrop" />
+      <meta name="og:description" content="ZenUML AirDrop" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://www.fubao.org/b5e47874e1fc7733bf48.png" />
-      <meta name="twitter:site:domain" content="www.fubao.org" />
-      <meta name="twitter:url" content="https://www.fubao.org/" />
-      <meta name="og:title" content="FUB 福豹" />
-      <meta name="og:image" content="https://www.fubao.org/b5e47874e1fc7733bf48.png" />
-      <meta name="apple-mobile-web-app-title" content="FUB 福豹" />
+      <meta name="twitter:image" content="https://zenuml.com/wp-content/uploads/2021/02/logo.png" />
+      <meta name="twitter:site:domain" content="zenuml.com" />
+      <meta name="twitter:url" content="https://zenuml.com" />
+      <meta name="og:title" content="ZenUML" />
+      <meta name="og:image" content="https://zenuml.com/wp-content/uploads/2021/02/logo.png" />
+      <meta name="apple-mobile-web-app-title" content="ZenUML" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"

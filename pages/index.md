@@ -1,6 +1,6 @@
 # 什么是 ZenUML和ZenUML Token
 
-ZenUML是一个Diagram-as-Code解决方案。你可以在https://zenuml.com找到更多信息。
+ZenUML是一个Diagram-as-Code解决方案。你可以在[官网](https://zenuml.com)找到更多信息。
 
 ZenUML Token是由ZenUML团队发行的一款基于BSC的Token。发行ZenUML Token的目的是借助于社区的力量
 发展ZenUML。通过ZenUML Token回馈给我们提供帮助的朋友。
