@@ -7,7 +7,7 @@ ZenUML Token是由ZenUML团队发行的一款基于BSC的Token。发行ZenUML To
 - Token英文全称：ZenUML Token（ZenUML or Z）
 - 代币总量：1,000,000,000,000,000 Z
 - 代币发行主网：BSC
-- 通缩规则：无增发机制，回购并销毁所有空投的Token
+- 通缩规则：无增发机制，回购并销毁市场上所有的Token
 - BSC 合约地址：`0x0831842DB6a03521469f795D90615c05c939F98C`
 - BscScan地址：https://bscscan.com/address/0x0831842db6a03521469f795d90615c05c939f98c
 
