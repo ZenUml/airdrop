@@ -11,7 +11,7 @@ ZenUML Token是由ZenUML团队发行的一款基于BSC的Token。发行ZenUML To
 - BSC 合约地址：`0x0831842DB6a03521469f795D90615c05c939F98C`
 - BscScan地址：https://bscscan.com/address/0x0831842db6a03521469f795d90615c05c939f98c
 
-ZenUML社区不追热度，项目由社区成员共同主导，社区承诺永不增发、不做市、永不撤流动池。
+ZenUML社区不追热度，项目由社区成员共同主导，社区承诺永不增发、全额回购、永不撤流动池。
 
 ## 官方账号
 

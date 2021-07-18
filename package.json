@@ -8,7 +8,7 @@
     "start": "next start",
     "build": "next build"
   },
-  "author": "Shu Ding",
+  "author": "Peng Xiao",
   "license": "MIT",
   "dependencies": {
     "next": "^10.0.8-canary.9",
