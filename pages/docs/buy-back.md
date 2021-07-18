@@ -5,7 +5,7 @@ import Callout from 'nextra-theme-docs/callout'
 <Callout>
 虽然我们为了方便在有的地方把ZenUML Token称为"币"或者使用"币价"这样的说法。ZenUML Token不应当被视为金融产品。ZenUML团队不提供金融方面的服务。ZenUML Token是团队回报社区贡献的渠道。
 
-ZenUML Token的持有者在ZenUML Token交易中的获益，由用户与用户、用户与交易所之间的交易产生。ZenUML团队进行的回购应视为支付市场推广方面的费用。ZenUML团队发行ZenUML Token不以融资为目的。
+ZenUML Token的持有者在ZenUML Token交易中的获益（或损失），由用户与用户、用户与交易所之间的交易产生。ZenUML团队进行的回购应视为支付市场推广方面的费用。ZenUML团队发行ZenUML Token不以融资为目的。
 </Callout>
 
 ## 我们承诺的全额回购包括什么
