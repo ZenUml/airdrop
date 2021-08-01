@@ -1,5 +1,6 @@
 export default {
-  repository: 'https://github.com/fubtoken/guide',
+  repository: 'https://github.com/ZenUml/airdrop',
+  docsRepository: 'https://github.com/ZenUml/airdrop',
   titleSuffix: ' – ZenUML',
   logo: (
     <>
@@ -18,11 +19,17 @@ export default {
       <meta name="description" content="ZenUML AirDrop" />
       <meta name="og:description" content="ZenUML AirDrop" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://zenuml.com/wp-content/uploads/2021/02/logo.png" />
+      <meta
+        name="twitter:image"
+        content="https://zenuml.com/wp-content/uploads/2021/02/logo.png"
+      />
       <meta name="twitter:site:domain" content="zenuml.com" />
       <meta name="twitter:url" content="https://zenuml.com" />
       <meta name="og:title" content="ZenUML" />
-      <meta name="og:image" content="https://zenuml.com/wp-content/uploads/2021/02/logo.png" />
+      <meta
+        name="og:image"
+        content="https://zenuml.com/wp-content/uploads/2021/02/logo.png"
+      />
       <meta name="apple-mobile-web-app-title" content="ZenUML" />
       <link
         rel="apple-touch-icon"
@@ -61,5 +68,12 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: true,
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
+  footerText: (
+    <>
+      {new Date().getFullYear()} ©{' '}
+      <a className="no-underline" href="https://zenuml.com">
+        ZenUML
+      </a>
+    </>
+  ),
 }
